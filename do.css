@@ -4,3 +4,10 @@
     padding: 30px;
     font-weight: 500;
 }
+.image img{
+    border-radius: 50%;
+    width: 150px;
+}
+.name,.section{
+    color: brown;
+}
